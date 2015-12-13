@@ -1,0 +1,9 @@
+c:\users\ardao\documents\visual studio 2015\Projects\BatterySync\BatterySync\bin\Debug\BatterySync.exe.config
+C:\Users\ardao\documents\visual studio 2015\Projects\BatterySync\BatterySync\bin\Debug\BatterySync.exe
+C:\Users\ardao\documents\visual studio 2015\Projects\BatterySync\BatterySync\bin\Debug\BatterySync.pdb
+C:\Users\ardao\documents\visual studio 2015\Projects\BatterySync\BatterySync\obj\Debug\BatterySync.csprojResolveAssemblyReference.cache
+C:\Users\ardao\documents\visual studio 2015\Projects\BatterySync\BatterySync\obj\Debug\BatterySync.Properties.Resources.resources
+C:\Users\ardao\documents\visual studio 2015\Projects\BatterySync\BatterySync\obj\Debug\BatterySync.csproj.GenerateResource.Cache
+C:\Users\ardao\documents\visual studio 2015\Projects\BatterySync\BatterySync\obj\Debug\BatterySync.exe
+C:\Users\ardao\documents\visual studio 2015\Projects\BatterySync\BatterySync\obj\Debug\BatterySync.pdb
+C:\Users\ardao\documents\visual studio 2015\Projects\BatterySync\BatterySync\obj\Debug\BatterySync.Form1.resources
